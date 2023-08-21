@@ -1,0 +1,21 @@
+.wrap { width: 100%; }
+
+.container {width: 100%; max-width: 1440px; margin: auto; background-color: rgba(255,255,255,.5); height: inherit;}
+
+header { height: 115px; background: #522B1C ; } 
+
+.header_top { height: 115px; background: #522B1C; }  
+
+.hero_banner { height: 450px; background: #e6e6ff; } 
+
+main { height: 950px; background: #e2e2e2; } 
+
+section:nth-child(1) { height: 904px; background-color: #808080; } 
+
+section:nth-child(2) { height: 904px; background-color: #808080; } 
+
+footer { height: 124px; background: var(--primary); } 
+
+.footer_nav { height: 62px; background: var(--secondary); } 
+
+.footer_info { height: 62px; background: var(--primary); }
